@@ -1,0 +1,11 @@
+Features for #b4k
+
+- Simple, intuitive and minimalistic interface
+- Customizable look and feel
+- Simple editor (wiki syntax)
+- ACL ready for parents to control what children publish
+- Youtube friendly
+- Groups of sites (same class, teams, etc.)
+  - Links to posts from inside the group
+  - Group site (automatic)
+- Mobile app for making easier to publish anytime, anywhere
